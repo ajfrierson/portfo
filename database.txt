@@ -1,0 +1,3 @@
+email, subject, message
+alvin@webuycaliforniahouses.co, Python, I hope I get through this material soon. I am ready to start the machine learning course.
+huerox@msn.com, Machine Learning, I am ready to start the course!
